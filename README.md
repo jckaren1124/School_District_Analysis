@@ -37,7 +37,7 @@ However, a recent report indicated that student scores from ninth graders at Tho
 ![revised math scores by grade](https://user-images.githubusercontent.com/89353378/137566472-68950d28-c2c3-4ce0-997e-c274e20f3baa.PNG)
 ![revised reading scores by grade](https://user-images.githubusercontent.com/89353378/137566485-4fb93bed-fce4-4bd4-b826-6138658d5d77.PNG)
 
-•	Only minute changes were seen for scores by school spending in the $630-644 spending range. Only the average reading score was slightly higher in the revised data while the rest of the scores and passing percentages was a little higher in the original data. If the scores were rounded to the nearest whole number, then no changes would be detected at all.
+•	Only minute changes were seen for scores by school spending in the $630-644 spending range. Only the average reading score was slightly higher in the revised data while the rest of the scores and passing percentages were a little higher in the original data. If the scores were rounded to the nearest whole number, then no changes could be detected at all.
 
 ##### Original Scores by School Spending
 ![original scores by school spending](https://user-images.githubusercontent.com/89353378/137566746-ac765920-9524-48b8-bd97-39811b9bc9d4.PNG)
@@ -65,7 +65,4 @@ However, a recent report indicated that student scores from ninth graders at Tho
 
 ## Summary
 
-
-
-
-
+Overall, the average math and reading scores as well as the passing percentage rates for all subjects were only slightly lower after removing the ninth grader scores at Thomas High School.  No change could be detected if all data were rounded to the nearest numbers. The biggest change in the revised data can be seen under the school summary chart. Even though average math scores and average reading scores were only slightly lower in the revised data calculations, the percentage of students who passed math, reading, and both were significantly lower in the revised school summary chart.
