@@ -63,6 +63,36 @@ However, a recent report indicated that student scores from ninth graders at Tho
 ![revised scores by school type](https://user-images.githubusercontent.com/89353378/137567244-10a01c72-c481-4564-b64b-de8d3ac9d327.PNG)
 
 
+
+•	Top 5 performing schools based on over all passing rate
+![top 5 performing schools](https://user-images.githubusercontent.com/89353378/138510061-3065c60a-6a45-4b42-8593-1a66257d80b1.png)
+
+
+•	Bottom 5 performing schools based on over all passing rate
+![bottom 5 performing schools](https://user-images.githubusercontent.com/89353378/138510109-80b8a450-73a6-4526-8423-adfbf9167ddc.png)
+
+
+•	Average math scores by grade per school
+
+![avg math scores by grade per school](https://user-images.githubusercontent.com/89353378/138511161-322275a7-e8aa-4cea-9fdd-b45374df536f.png)
+
+
+•	Average reading scores by grade per school
+![avg reading scores by grade per school](https://user-images.githubusercontent.com/89353378/138510705-3b78373a-dd6b-4c01-a0d9-c7f630631d4e.png)
+
+
+•	Scores by school spending per student
+![scores by school spending per student](https://user-images.githubusercontent.com/89353378/138510763-526a0c09-698b-457f-8a06-4fea57e1c510.png)
+
+
+•	Scores by school spending per school size
+![scores by school spending per school size](https://user-images.githubusercontent.com/89353378/138510802-d8554792-1f8b-4f35-be30-2d99d4442673.png)
+
+
+•	Scores by school spending per school type
+![scores by school spending per school type](https://user-images.githubusercontent.com/89353378/138510869-8958f356-bf55-48a2-b7b7-476853cf8528.png)
+
+
 ## Summary
 
 Overall, the average math and reading scores as well as the passing percentage rates for all subjects were only slightly lower after removing the ninth grader scores at Thomas High School.  No change could be detected if all data were rounded to the nearest numbers. The biggest change in the revised data can be seen under the school summary chart. Even though average math scores and average reading scores were only slightly lower in the revised data calculations, the percentage of students who passed math, reading, and both were significantly lower in the revised school summary chart.
