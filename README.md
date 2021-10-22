@@ -78,6 +78,7 @@ However, a recent report indicated that student scores from ninth graders at Tho
 
 
 •	Average reading scores by grade per school
+
 ![avg reading scores by grade per school](https://user-images.githubusercontent.com/89353378/138510705-3b78373a-dd6b-4c01-a0d9-c7f630631d4e.png)
 
 
